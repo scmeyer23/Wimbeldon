@@ -1,0 +1,48 @@
+* {
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    color: deepskyblue;
+}
+
+a {
+    color: wheat;
+}
+
+#menu {
+    margin: auto;
+    width: auto;
+    text-align: center;
+}
+
+.links {
+    width: 10px;
+    display: inline;
+    list-style-type: none;
+    background-color: black;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+a:hover {
+    background-color: red;
+}
+
+p {
+    font-style: italic;
+}
+
+#intro {
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+}
