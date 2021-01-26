@@ -40,7 +40,14 @@ ul {
     border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 20px;
     text-align: center;
-    
+    margin-bottom: 0;
+}
+
+img {
+    margin-bottom: 0;
+    transform: translateY(5%);
+    height: 90%;
+    width: 90%;
 }
 
 #menu {
