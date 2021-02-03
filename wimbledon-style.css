@@ -100,5 +100,6 @@ hr {
 
 .navbar {
     height: 80px;
-    position: relative;
+    postion: relative;
+    padding-top: 30px;
 }
