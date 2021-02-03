@@ -45,9 +45,9 @@ ul {
 
 img {
     margin-bottom: 0;
-    transform: translateY(5%);
     height: 90%;
     width: 90%;
+    transform: translateY(5%);
 }
 
 #menu {
