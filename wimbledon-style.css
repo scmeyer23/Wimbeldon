@@ -99,5 +99,6 @@ hr {
 }
 
 .navbar {
-    height: 50%;
+    height: 80px;
+    position: relative;
 }
